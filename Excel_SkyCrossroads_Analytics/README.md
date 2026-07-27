@@ -10,3 +10,10 @@
 Основные результаты:
 — В связи с открытием новой торговой точки уменьшилось количество продаж в другой, расположенной поблизости, торговой точке, а также увеличилась нагрузка на один из серверов компании.
 — Проведенная маркетинговая акция оказалась успешной: расходы на акцию составили 2 419 тыс. руб.,  увеличение среднего чека — 1,5 тыс. руб. или 8,05%, прирост выручки — 5 069 тыс. руб., прибыль от проведения акции — 2 651 тыс. руб.
+
+Дашборды:
+https://docs.google.com/spreadsheets/d/1O8p0ZNsUX3S42RAL1szRs5VxynsEbR8NEaLp5CqmzJk/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/11jP0ATkkfxUGfG-2mxiWyT4iZQGWwzVWJiTWAFpJoqA/edit?usp=sharing
+
+Отчет-калькулятор:
+https://docs.google.com/spreadsheets/d/1HEazbOHxvL03ZRFBNEqBwX6mbtItLkX4BH-UAk4sejs/edit?usp=sharing
